@@ -1,0 +1,185 @@
+.image-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 584px;
+  height: 928px;
+  object-fit: cover;
+}
+.e-mail {
+  position: absolute;
+  top: 254px;
+  left: 58px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-patua-one);
+  color: var(--color-white);
+}
+.frame-inner {
+  position: absolute;
+  top: 162px;
+  left: 39px;
+  border-radius: var(--br-31xl);
+  width: 207px;
+  height: 51px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  position: absolute;
+  top: 162px;
+  left: 292px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  width: 207px;
+  height: 51px;
+}
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  top: 288px;
+  left: 39px;
+  width: 336px;
+  height: 52px;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  top: 412px;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  top: 539px;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  top: 663px;
+}
+.frame-child6,
+.frame-child7 {
+  top: 790px;
+}
+.frame-child7 {
+  top: 864px;
+  cursor: pointer;
+}
+.enter-name {
+  position: absolute;
+  top: 125px;
+  left: 29px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-patua-one);
+  color: var(--color-white);
+  display: inline-block;
+  width: 217px;
+  height: 62px;
+}
+.first-name {
+  position: absolute;
+  top: 161px;
+  left: 87px;
+}
+.enter-email-id,
+.last-name {
+  position: absolute;
+  top: 165px;
+  left: 347px;
+}
+.enter-email-id {
+  top: 292px;
+  left: 131px;
+}
+.date-of-birth,
+.enter-password1,
+.gender,
+.phone-no {
+  position: absolute;
+  top: 747px;
+  left: 52px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-patua-one);
+  color: var(--color-white);
+}
+.date-of-birth,
+.gender,
+.phone-no {
+  top: 376px;
+  left: 58px;
+}
+.date-of-birth,
+.gender {
+  top: 503px;
+}
+.date-of-birth {
+  top: 630px;
+}
+.enter-gender,
+.enter-mobile-number {
+  position: absolute;
+  top: 414px;
+  left: 99px;
+}
+.enter-gender {
+  top: 541px;
+  left: 144px;
+}
+.enter-date-of,
+.enter-password2 {
+  position: absolute;
+  top: 668px;
+  left: 106px;
+}
+.enter-password2 {
+  top: 790px;
+  left: 132px;
+}
+.confirm-password,
+.ellipse-div {
+  position: absolute;
+  top: 864px;
+  left: 120px;
+}
+.ellipse-div {
+  top: 830px;
+  left: 436px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 76px;
+  height: 68px;
+}
+.forward-button-icon {
+  position: absolute;
+  top: 824px;
+  left: 432px;
+  width: 83px;
+  height: 79px;
+  object-fit: cover;
+}
+.register1 {
+  position: absolute;
+  top: 790px;
+  left: 441px;
+  color: var(--color-white);
+}
+.image-2-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 925px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-peddana);
+}

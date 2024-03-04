@@ -1,0 +1,178 @@
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1021px;
+  height: 928px;
+  object-fit: cover;
+}
+.hello {
+  margin: 0;
+}
+.hello-welcome-container {
+  position: absolute;
+  top: 228px;
+  left: 133px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-racing-sans-one);
+}
+.frame-2-child {
+  position: absolute;
+  top: 356px;
+  left: 47px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  width: 377px;
+  height: 67px;
+}
+.enter-username {
+  position: absolute;
+  top: 370px;
+  left: 124px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.frame-2-item {
+  position: absolute;
+  top: 471px;
+  left: 52px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  width: 377px;
+  height: 67px;
+}
+.enter-password {
+  position: absolute;
+  top: 485px;
+  left: 125px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.forgot-password {
+  position: absolute;
+  top: 551px;
+  left: 221px;
+}
+.frame-2-inner,
+.sign-in {
+  position: absolute;
+  cursor: pointer;
+}
+.frame-2-inner {
+  top: 628px;
+  left: 52px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  width: 377px;
+  height: 67px;
+}
+.sign-in {
+  top: 642px;
+  left: 186px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.or-continue-with {
+  position: absolute;
+  top: 722px;
+  left: 149px;
+}
+.facebook-icon,
+.frame-2-child1,
+.line-icon {
+  position: absolute;
+  top: 735px;
+  left: 346px;
+  width: 83px;
+  height: 2px;
+  object-fit: contain;
+}
+.facebook-icon,
+.frame-2-child1 {
+  left: 62px;
+  width: 76px;
+}
+.facebook-icon {
+  top: 763px;
+  left: 46px;
+  border-radius: 220px;
+  width: 87px;
+  height: 48px;
+  object-fit: cover;
+}
+.google-logo-icon,
+.instagram-icon {
+  position: absolute;
+  top: 236px;
+  left: 489px;
+  width: 456px;
+  height: 456px;
+  object-fit: cover;
+}
+.instagram-icon {
+  left: 966px;
+  width: 455px;
+}
+.google-logo-icon1,
+.instagram-icon1 {
+  position: absolute;
+  top: 762px;
+  left: 211px;
+  width: 75px;
+  height: 56px;
+  object-fit: cover;
+}
+.instagram-icon1 {
+  top: 763px;
+  left: 349px;
+  width: 86px;
+  height: 54px;
+}
+.dont-have-an {
+  position: absolute;
+  top: 860px;
+  left: 23px;
+  color: var(--color-gray-200);
+}
+.create-account,
+.sign-in1 {
+  position: absolute;
+  top: 860px;
+  left: 286px;
+}
+.sign-in1 {
+  top: 24px;
+}
+.rectangle-div,
+.rectangle-icon {
+  position: absolute;
+  top: 27px;
+  left: 383px;
+  border-radius: var(--br-31xl);
+  width: 85px;
+  height: 29px;
+}
+.rectangle-div {
+  top: 21px;
+  left: 368px;
+  background-color: var(--color-gainsboro-100);
+  width: 100px;
+  height: 35px;
+}
+.register {
+  position: absolute;
+  top: 24px;
+  left: 374px;
+  color: var(--color-black);
+}
+.frame-2 {
+  width: 45%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 925px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-patua-one);
+}

@@ -1,0 +1,59 @@
+.image-9-icon {
+  display: none;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 795px;
+  height: 950px;
+  object-fit: cover;
+}
+.image-11-icon {
+  top: 787px;
+  left: 96px;
+  border-radius: var(--br-3xs);
+  width: 214px;
+  height: 150px;
+}
+.the-great-pyramid {
+  position: absolute;
+  top: 811px;
+  left: 351px;
+  display: inline-block;
+  width: 399px;
+}
+.some-of-the {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+}
+.back-to-icon1,
+.location-icon1 {
+  position: absolute;
+  top: 817px;
+  left: 0;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.back-to-icon1 {
+  top: 16px;
+  left: -1540px;
+  width: 64px;
+  height: 56px;
+  display: none;
+}
+.image-9-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 947px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-piazzolla);
+}

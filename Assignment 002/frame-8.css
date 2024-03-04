@@ -1,0 +1,106 @@
+.frame-child13,
+.image-12-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 950px;
+}
+.image-12-icon1 {
+  width: 792px;
+  object-fit: cover;
+}
+.frame-child13 {
+  background-color: var(--color-gainsboro-200);
+  width: 332px;
+}
+.customer-icon2 {
+  position: absolute;
+  top: 144px;
+  left: 107px;
+  width: 117px;
+  height: 111px;
+  object-fit: cover;
+}
+.messages1 {
+  position: absolute;
+  top: 335px;
+  left: 76px;
+}
+.friends1,
+.log-out2,
+.notification1 {
+  position: absolute;
+  top: 440px;
+  left: 76px;
+}
+.log-out2,
+.notification1 {
+  top: 545px;
+}
+.log-out2 {
+  top: 650px;
+  left: 81px;
+}
+.alarm-icon1,
+.logout-icon1,
+.speech-bubble-icon1,
+.users-icon1 {
+  position: absolute;
+  top: 435px;
+  left: 12px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.alarm-icon1,
+.logout-icon1,
+.speech-bubble-icon1 {
+  top: 555px;
+}
+.logout-icon1,
+.speech-bubble-icon1 {
+  top: 335px;
+}
+.logout-icon1 {
+  top: 655px;
+}
+.frame-child14 {
+  position: absolute;
+  top: 786px;
+  left: 186px;
+  border-radius: var(--br-31xl);
+  width: 362px;
+  height: 83px;
+}
+.log-out3 {
+  position: absolute;
+  top: 794px;
+  left: 263px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.are-you-sure1 {
+  position: absolute;
+  top: 718px;
+  left: 161px;
+  white-space: pre-wrap;
+}
+.round-icon1 {
+  position: absolute;
+  top: 105px;
+  left: 53px;
+  width: 225px;
+  height: 189px;
+  object-fit: cover;
+}
+.image-12-root {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 950px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-piazzolla);
+}

@@ -1,0 +1,55 @@
+.image-8-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 751px;
+  height: 950px;
+  object-fit: cover;
+}
+.myth-about,
+.the-legend-behind {
+  position: absolute;
+  top: 15px;
+  left: 22px;
+}
+.the-legend-behind {
+  top: 598px;
+}
+.it-is-said {
+  white-space: pre-wrap;
+}
+.it-is-said-to-have-been-constr {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.to-legendsa-kingdom-from-ala {
+  margin: 0;
+}
+.b {
+  font-family: var(--font-piazzolla);
+}
+.it-is-said-container {
+  position: absolute;
+  top: 668px;
+  left: 22px;
+  display: inline-block;
+  width: 751px;
+  height: 374px;
+  font-family: var(--font-philosopher);
+}
+.back {
+  position: absolute;
+  top: 905px;
+  left: 621px;
+}
+.image-8-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 947px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-piazzolla);
+}

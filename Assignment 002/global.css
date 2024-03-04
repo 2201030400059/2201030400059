@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-piazzolla: Piazzolla;
+  --font-patua-one: "Patua One";
+  --font-racing-sans-one: "Racing Sans One";
+  --font-peddana: Peddana;
+  --font-pavanam: Pavanam;
+  --font-pinyon-script: "Pinyon Script";
+  --font-philosopher: Philosopher;
+  --font-nunito: Nunito;
+  --font-helvetica: Helvetica;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-9xl: 28px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.45);
+  --color-gray-100: #8f9090;
+  --color-gray-200: #938282;
+  --color-dimgray-100: #5e5959;
+  --color-darkslategray-100: #444;
+  --color-darkslategray-200: #333;
+
+  /* Gaps */
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-lg: 18px;
+  --br-81xl: 100px;
+  --br-mini: 15px;
+
+  /* Effects */
+  --hhhh: 12px 0px 134px rgba(0, 0, 0, 0.25);
+}

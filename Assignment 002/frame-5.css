@@ -1,0 +1,85 @@
+.kailash-temple-ellorverul {
+  margin: 0;
+}
+.kailash-temple-ellorverul-ma-container {
+  position: absolute;
+  top: 437px;
+  left: 32px;
+  display: none;
+  color: #ededed;
+  width: 441px;
+  height: 99px;
+}
+.kailash-temple-ellora {
+  position: absolute;
+  top: 397px;
+  left: 32px;
+  display: none;
+  color: var(--color-white);
+}
+.about {
+  position: absolute;
+  top: 540px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+}
+.the-temple-was {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.ce-the-temple-container {
+  position: absolute;
+  top: 540px;
+  left: 97px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 641px;
+  height: 470px;
+}
+.back-to-icon {
+  position: absolute;
+  top: 32px;
+  left: 657px;
+  width: 64px;
+  height: 56px;
+  object-fit: contain;
+  display: none;
+  cursor: pointer;
+}
+.forward-button-icon1,
+.image-7-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 737px;
+  height: 528px;
+  object-fit: cover;
+}
+.forward-button-icon1 {
+  top: 397px;
+  left: -105px;
+  width: 91px;
+  height: 78px;
+  display: none;
+}
+.frame-child12 {
+  position: absolute;
+  top: 386px;
+  left: -639px;
+  border-radius: var(--br-31xl);
+  background-color: rgba(217, 217, 217, 0.75);
+  width: 638px;
+  height: 99px;
+  display: none;
+}
+.kailash-temple-ellorverul-ma-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 947px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-piazzolla);
+}
